@@ -1,12 +1,2 @@
-v1.0m
+v1.2 master
 
-- master, primeiro commit
-
-v1,1p
-
-- commit pro projectA
-
-
-v1.2m
-
-- this does not make sense
