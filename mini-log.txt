@@ -1,6 +1,3 @@
 v1.2 master
 
-v1.3 projectB
-
-v1.4 master - vamos normalizar pra continuar
-
+1.3 projectB
